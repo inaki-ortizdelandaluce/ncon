@@ -21,7 +21,7 @@ else:
 from ncon import ncon
 ```
 ## Sample contraction
-!(tn.jpg)
+![tn.jpg](tn.jpg)
 ```python
 d=20
 A = np.random.rand(d, d, d)
